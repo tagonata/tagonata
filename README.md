@@ -3,7 +3,7 @@
 Hi, I’m Suwon Kim, a Machine Learning Developer 🚀 from Korea. Still a junior, but dreaming of a great senior.
 I am interested in multi-modal combining Vision and NLP.
 
-<img align="right" alt="GIF" src="https://github.com/tagonata/tagonata/blob/main/banner.gif?raw=true" width="500" height="320" />
+![banner](https://user-images.githubusercontent.com/15716122/98087628-bc355580-1ec3-11eb-94c8-d35285f261a7.gif)
 
 **Languages and Tools:**
 
