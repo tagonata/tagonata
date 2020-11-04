@@ -5,7 +5,8 @@ I am interested in multi-modal combining Vision and NLP.
 
 <img align="right" alt="GIF" src="https://github.com/tagonata/tagonata/blob/main/banner.gif?raw=true" width="500" height="320" />
 
-**Languages and Tools:** 
+**Languages and Tools:**
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 <!--
